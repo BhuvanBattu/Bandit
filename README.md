@@ -1,7 +1,7 @@
 # Bandit
 ## L 0 to 1
 
-Found a readme file using ls.Used cat to read it.  NH2SXQwcBdpmTEzi3bvBHMM9H66vVXjL
+* Found a readme file using ls.Used cat to read it.  NH2SXQwcBdpmTEzi3bvBHMM9H66vVXjL
 
 ## L 1 to 2
 
