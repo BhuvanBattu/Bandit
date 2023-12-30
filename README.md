@@ -81,7 +81,7 @@
 
 ## L 12 to 13
 
-* Create a ne directory using mkdir /tmp/bb123
+* Create a new directory using mkdir /tmp/bb123
 * Copy data.txt to bb123 using cp data.txt /tmp/bb123
 * Move to bb123 using cd /tmp/bb123 
 * Use command xxd -r data.txt > temp
@@ -91,6 +91,16 @@
 * Continue the process till we get a txt file
 * Pass: wbWdlBxEir4CaE8LaPhauuOo6pwRmrDw
 
+## L 13 to 14
+
+* Use the command ssh -i sshkey.private bandit14@bandit.labs.overthewire.org -p 2220
+
+## L 14 to 15
+
+* Use the command cat /etc/bandit_pass/bandit14
+* We will get a password: fGrHPx402xGC7U7rXKDaxiWFTOiF0ENq
+* Use the command telnet localhost 30000 and enter the above password
+* Pass: jN2kgmIXJ6fShzhT2avhotn4Zcka6tnt
 
 
 
